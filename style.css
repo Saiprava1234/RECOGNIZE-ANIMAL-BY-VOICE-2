@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pushster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2&display=swap');
+
+.header_div{
+    background-image: linear-gradient(to right,yellow,orange,deeppink,purple,deeppink,orange,yellow);
+}
+body{
+    font-family: 'Satisfy', cursive;
+    font-size: 25px;
+    text-align: center;
+    color: cornsilk;
+    text-shadow: 2px 2px #000000;
+    background-image: linear-gradient(to right, #ff767b, lightgrey, #ff767b);
+}
+h2{
+    background: transparent;
+    font-family: 'Pushster', cursive;
+    font-size: 40px;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    margin-bottom: 15px;
+}
+button{
+    background: linear-gradient(lightblue,rgb(0, 183, 255),rgb(0, 89, 255));
+    font-family: 'Baloo Bhaina 2', cursive;
+    border-radius: 10px;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 20px;
+    border-top: 5px,black;
+    border-right: 5px,black;
+    color: black;
+}
+button:hover{
+    background: linear-gradient(rgb(0,89,255),rgb(0,183,255),lightblue);
+    color: cornsilk;
+}
+h3{
+    font-size: 30px;
+    font-weight: bold;
+}
+.copy_right_footer{
+    margin-top: 50px;
+    bottom:0;
+    color: black;
+    text-shadow: 2px 2px #999999;
+    font-weight: bold;
+    width: 100%;
+    position: fixed;
+    background: white;
+}
+h3{
+    text-shadow: 3px 2px 4px #424242;
+    color:black;
+}
